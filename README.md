@@ -11,6 +11,7 @@ const Olacy = {
   technologies: {
         backEnd: {
             js: "Node-Studying",
+            python: "Django"
         },
         Frontend: {
             js: "React-Studying",
