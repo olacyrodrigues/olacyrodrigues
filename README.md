@@ -7,7 +7,6 @@
 ```javascript
 const Olacy = {
   code: ["Javascript", "Typescript-Studying", "HTML", "CSS", "Sass", "Python"],
-  tools: ["React-Studying","Node-Studying", "MongoDB-Studying", "Bootstrap" ],
   askMeAbout: ["web dev", "tech", "games"],
   technologies: {
         backEnd: {
