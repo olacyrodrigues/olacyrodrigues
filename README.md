@@ -1,5 +1,7 @@
 ## Hey, I'm Olacy Rodrigues! 👋
 
+![Snake animation](https://github.com/olacyrodrigues/olacyrodrigues/blob/output/github-contribution-grid-snake.svg)
+
 ### A little more about me...  
 
 ```javascript
@@ -40,7 +42,7 @@ const Olacy = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olacyrodrigues&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/olacyrodrigues/olacyrodrigues/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <br>
