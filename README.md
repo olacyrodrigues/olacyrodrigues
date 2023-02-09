@@ -19,7 +19,7 @@ const Olacy = {
         devOps: "Docker🐳",
         databases: ["mongo-Studying", "MySql", "PostgreSQL"],
     },
- currentFocus: "at the moment I'm studying to become FullStack",
+ currentFocus: "at the moment I'm studying to become FullStack"
 }
 ```
 
