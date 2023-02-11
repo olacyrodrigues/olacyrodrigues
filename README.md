@@ -40,7 +40,7 @@ const Olacy = {
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olacyrodrigues&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olacyrodrigues&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=6&hide=css,html,dockerfile" />
 
 
 
