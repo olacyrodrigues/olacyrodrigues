@@ -40,7 +40,7 @@ const Olacy = {
 </div>
 <br>
 
-<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olacyrodrigues&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=6&hide=css,html,dockerfile" />
+<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olacyrodrigues&title_color=ffffff&theme=github_dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=6&hide=css,html,dockerfile" />
 
 
 
