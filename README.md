@@ -14,7 +14,7 @@ const Olacy = {
             python: "Django"
         },
         Frontend: {
-            js: React
+            js: "React"
         },
         devOps: "Docker🐳",
         databases: ["mongo-Studying", "MySql", "PostgreSQL"],
