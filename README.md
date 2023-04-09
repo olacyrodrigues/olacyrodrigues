@@ -6,18 +6,18 @@
 
 ```javascript
 const Olacy = {
-  code: ["Javascript", "Typescript-Studying", "HTML", "CSS", "Sass", "Python"],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Sass", "Python"],
   askMeAbout: ["web dev", "tech", "games"],
   technologies: {
         backEnd: {
-            js: "Node-Studying",
+            js: "Node",
             python: "Django"
         },
         Frontend: {
             js: "React"
         },
         devOps: "Docker🐳",
-        databases: ["mongo-Studying", "MySql", "PostgreSQL"],
+        databases: ["Mongo", "MySql", "PostgreSQL"],
     },
  currentFocus: "at the moment I'm studying to become FullStack"
 }
@@ -29,14 +29,14 @@ const Olacy = {
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Olacy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Olacy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Olacy-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Olacy-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Olacy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Olacy-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="Olacy-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Olacy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Olacy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Olacy-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Olacy-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Olacy-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
   <img align="center" alt="Olacy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
